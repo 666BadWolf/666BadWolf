@@ -20,5 +20,5 @@
 ### [Портфолио по курсу "Аналитик данных".](https://github.com/666BadWolf/Portfolio)
 
 ## Связаться со мной: 
-- [![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BadWolfenstein)
+- [![Telegram Badge](https://img.shields.io/badge/-BadWolfenstein-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BadWolfenstein)
 
