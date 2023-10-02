@@ -10,7 +10,7 @@
 
 | Название курса | Проводившая организация | Формат | Период обучения | Документ об окончании |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |:---------------------- |
-| "Big Data и Data Science: начни погружение с нуля" | Русская школа программирования. | online на платформе Stepik | 2022 | [Сертификат] (https://github.com/666BadWolf/Documents/blob/main/stepik-certificate-big_data_data_science_start.pdf) |
+| "Big Data и Data Science: начни погружение с нуля" | Русская школа программирования. | online на платформе Stepik | 2022 | [Сертификат](https://github.com/666BadWolf/Documents/blob/main/stepik-certificate-big_data_data_science_start.pdf) |
 | "Big Data и Data Science: перейди на новый уровень" | Русская школа программирования. | online на платформе Stepik | 2022 | [Сертификат](https://github.com/usr036943/usr036943/blob/main/Документы/certificate-simulyator-SQL.pdf) |
 | "Основы статистики" | Институт биоинформатики. Автор и преподаватель - Анатолий Карпов. | online на платформе Stepik |2022 | [Сертификат](https://github.com/666BadWolf/Documents/blob/main/stepik-certificate-basics_of_statistics.pdf) |
 | "Аналитик данных" |АНО ДПО «Образовательные технологии Яндекса». | online на платформе Яндекс.Практикум | 2022-2023 | [Диплом](https://github.com/666BadWolf/Documents/blob/main/Diplom_Yandex.pdf) |
