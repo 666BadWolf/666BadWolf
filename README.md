@@ -6,18 +6,15 @@
 `Python`, `Pandas`, `Seaborn`, `SQL`, `PostgreSQL`, `MS Excel`, `Tableau`, `MS PowerPoint`, `Redmine`,
 `Github`, `Jupyter Notebook`, `PowerBI`, `Yandex DataLens`
 
-Пройденные мной курсы:
-
-| Название курса | Проводившая организация | Формат | Период обучения | Документ об окончании |
-| :---------------------- | :---------------------- | :---------------------- |:---------------------- |:---------------------- |
-| "Big Data и Data Science: начни погружение с нуля" | Русская школа программирования. | online на платформе Stepik | 2022 | [Сертификат](https://github.com/666BadWolf/Documents/blob/main/stepik-certificate-big_data_data_science_start.pdf) |
-| "Big Data и Data Science: перейди на новый уровень" | Русская школа программирования. | online на платформе Stepik | 2022 | [Сертификат](https://github.com/usr036943/usr036943/blob/main/Документы/certificate-simulyator-SQL.pdf) |
-| "Основы статистики" | Институт биоинформатики. Автор и преподаватель - Анатолий Карпов. | online на платформе Stepik |2022 | [Сертификат](https://github.com/666BadWolf/Documents/blob/main/stepik-certificate-basics_of_statistics.pdf) |
-| "Аналитик данных" |АНО ДПО «Образовательные технологии Яндекса». | online на платформе Яндекс.Практикум | 2022-2023 | [Диплом](https://github.com/666BadWolf/Documents/blob/main/Diplom_Yandex.pdf) |
-| "Excel для работы"| АНО ДПО «Образовательные технологии Яндекса». | online на платформе Яндекс.Практикум | 2023 | | 
-| "Интерактивный тренажер SQL" |Дальневосточный Федеральный Университет. | online на платформе Stepik | 2022 | [Диплом](https://github.com/666BadWolf/Documents/blob/main/stepik-certificate-interactive_sql_simulator.pdf) |
-
-### [Портфолио по курсу "Аналитик данных".](https://github.com/666BadWolf/Portfolio)
+## Описание проектов:
+| Название и ссылка | О чем проект                                                     |
+|-------------------|------------------------------------------------------------------|
+|[Принятие решений в бизнесе](https://nbviewer.org/github/666BadWolf/Portfolio/blob/main/business_decisions/business_decisions.ipynb)|Необходимо приоритезировать гипотезы, созданные совместно с отделом маркетинга, запустить A/B-тест и проанализировать результаты.|
+|[Исследование компьютерных игр](https://nbviewer.org/github/666BadWolf/Portfolio/blob/main/computer_game_shop/computer_game_shop.ipynb)|Разбираемся, какие жанры игр, платформы и возрастной рейтинг популярны в Европе, Америке и Японии|
+|[Пример SQL запросов](https://github.com/666BadWolf/Portfolio/blob/main/example_sql_query/example_sql_query.sql)|Небольшие задания на работу с SQL|
+|[Исследование объявлений о продаже квартир](https://nbviewer.org/github/666BadWolf/Portfolio/blob/main/real_estate_research/real_estate_research.ipynb)|Устанавливаем параметры для определения рыночной цены недвижимости|
+|[Анализ воронки продаж](https://nbviewer.org/github/666BadWolf/Portfolio/blob/main/sales_funnel/sales_funnel.ipynb)|Анализ воронки продаж и исследование результатов A/A/B-теста|
+|[Анализ поведения пользователей в мобильном приложении](https://nbviewer.org/github/666BadWolf/Portfolio/blob/main/user_behavior_mobile_app/user_behavior_mobile_app.ipynb)|Анализ сессий пользователей, оценка частоты действий|
 
 ## Связаться со мной: 
 - [![Telegram Badge](https://img.shields.io/badge/-BadWolfenstein-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BadWolfenstein)
